@@ -1,1 +1,1 @@
-print 'rich'
+print 'kenobe'
